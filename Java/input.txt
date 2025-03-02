@@ -1,0 +1,11 @@
+y
+106
+Baju Hamster
+110000
+5
+Baju
+Katun
+Putih
+Hamster
+S
+HamsterStyle
