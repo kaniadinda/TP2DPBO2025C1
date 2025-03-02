@@ -1,4 +1,4 @@
-# TP2DPBO2025C1
+# TP2DPBO2025C2
 
 # JANJI
 Saya Kania Dinda Fasya dengan NIM 2102421 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
